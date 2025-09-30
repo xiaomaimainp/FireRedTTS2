@@ -2,5 +2,5 @@
 .vscode/*
 */**/.DS_Store
 **/__pycache__/
-/TTS/FireRedTTS2/pretrained_models/
-/TTS/FireRedTTS2/pretrained_models/**
+pretrained_models/
+pretrained_models/**
